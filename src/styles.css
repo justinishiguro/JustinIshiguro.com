@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+}
+
+.banner {
+  width: 100%;
+  height: 500px;
+  background: #0d0d21;
+  position: relative;
+}
+
+.heading {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading h1 {
+  margin: 0;
+  color: white;
+  font-size: 50px;
+  height: 150px;
+
+}
+
+.heading:before {
+  content: '';
+  width: 300px;
+  height: 300px;
+  border-top: 10px solid grey;
+  border-radius: 100%;
+  position: absolute;
+}
+
+.heading:after {
+  content: '';
+  width: 200px;
+  height: 200px;
+  background: white;
+  position: absolute;
+  bottom: -100px;
+  left: 43px;
+  transform: rotate(45deg);
+}
+
+.navigation {
+  width: 100%;
+  background-color: #0d0d21;
+  overflow: auto;
+}
+
+.navigation a {
+  float: left;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 31.7%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+}
+
+.navigation a:hover {
+  background-color: #2F4F4F;
+}
+
+.textbox {
+  width: 50px;
+  height: 50px;
+  top: 300px;
+  left: 320px;
+  position: absolute;
+  color: white;
+}
+
+.vertical {
+  border-left: 6px solid grey;
+  height: 150px;
+  width: 50px;
+  top: 300px;
+  left: 300px;
+  position: absolute;
+}
+
+.rectangle::before {
+  content: "";
+  width: 2px;
+  background: linear-gradient(0deg, var(--grad-2) 0%, var(--grad-1) 100%);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -30px;
+}
