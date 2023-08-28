@@ -1,2 +1,2 @@
-# Personal Website [JustinIshiguro.com](https://justinishiguro.com/)
+# Personal Website ([JustinIshiguro.com])(https://justinishiguro.com/)
 
