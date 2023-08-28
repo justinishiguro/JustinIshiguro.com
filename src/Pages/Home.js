@@ -4,7 +4,7 @@ function Home() {
       <div className="h-5/6 bg-white">
         <div className="inline-block flex items-center justify-center">
           <h1 className="text-3xl py-8 font-bold font-serif hover:text-gray-500 text-center">
-            Welcome.
+            Welcome!
           </h1>
         </div>
 
