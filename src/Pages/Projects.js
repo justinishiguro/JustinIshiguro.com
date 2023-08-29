@@ -57,7 +57,7 @@ function About() {
             <div className="pt-8 pl-12">
               <div className="inline-block">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/justinishiguro/JustinIshiguro.com"
                   target="_blank"
                   className="col-span-1 svg-link"
                 >
