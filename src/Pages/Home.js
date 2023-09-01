@@ -17,10 +17,10 @@ function Home() {
             </p>
             <br></br>
             <p className="pl-4">
-              I am currently a Teaching Assistant for APSC160 and on a Co-op
-              term at DappWorks Technology Inc. On this website, you can learn
-              more about my projects, read my notes on classes, and view my
-              resume.{" "}
+              I am currently a Teaching Assistant for APSC160 and just completed
+              a 4 month Co-op term at DappWorks Technology Inc. On this website,
+              you can learn more about my projects, read my notes on classes,
+              and view my resume.{" "}
             </p>
             <br></br>
             <p className="pl-4">
@@ -29,12 +29,16 @@ function Home() {
               UBC, engineering, courses, or anything else!{" "}
             </p>
             <br></br>
-            <p className="pl-4"><span className="font-bold">Skills:</span> C/C++, Java, Python, Git, React, JavaScript/TypeScript, CSS/Tailwind CSS, HTML</p>
+            <p className="pl-4">
+              <span className="font-bold">Skills:</span> C/C++, Java, Python,
+              Git, React, JavaScript/TypeScript, CSS/Tailwind CSS, HTML
+            </p>
             <br></br>
             <p className="pl-4">
-              <span className="font-bold">Relevant courses:</span> Basic Algorithms And Data
-              Structures (CPSC221), Computing Systems (CPEN211/CPEN212),
-              Software Construction (CPEN221), and Mathematical Proof (MATH220).
+              <span className="font-bold">Relevant courses:</span> Basic
+              Algorithms And Data Structures (CPSC221), Computing Systems
+              (CPEN211/CPEN212), Software Construction (CPEN221), and
+              Mathematical Proof (MATH220).
             </p>
           </span>
         </div>
