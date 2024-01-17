@@ -17,8 +17,7 @@ function Home() {
             </p>
             <br></br>
             <p className="pl-4">
-              I am currently a Teaching Assistant for APSC160 and just completed
-              a 4 month Co-op term at DappWorks Technology Inc. On this website,
+              I am currently seeking internship opportunities for Fall 2024. On this website,
               you can learn more about my projects, read my notes on classes,
               and view my resume.{" "}
             </p>
