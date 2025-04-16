@@ -12,7 +12,7 @@ function Home() {
           <span class="relative">
             <span class="absolute top-0 bottom-0 left-0 w-2 bg-black"></span>
             <p className="pl-4">
-              Hi, my name is Justin Ishiguro and I am a third year Computer
+              Hi, my name is Justin Ishiguro and I am a fourth year Computer
               Engineering student at the University of British Columbia.
             </p>
             <br></br>
